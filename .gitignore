@@ -13,6 +13,8 @@ target/
 *.iml
 *.ipr
 karate-template-framework.iml
+karate-config-js
+logback-test.xml
 
 ### Eclipse ###
 .apt_generated
